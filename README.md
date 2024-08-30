@@ -69,38 +69,22 @@ Course Materials
  
 Course Plan (liable to be adjusted)
 ------------
-- 27 Feb: Introduction. Branching-based algorithm, part I. 
-  [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek01%5Dbranching_algorithm.pdf). Chapter 3.1, 3.3, 3.4 from Cygan et al.
-- 29 Feb: Branching-based algorithm, part II
-- 5 March: Basics of Kernelization.
-  Chapter 2.2-2.5, 9.1 from Cygan et al.
-  [Lecture Note, Part I](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek02%5Dkernelization_part_I.pdf).
-- 7 March: More on Kernelization: Vertex Cover, A bit of Feedback Vertex Set.
-- 12 March: Quadratic kernel for Feedback Vertex Set. [Lecture Note, Part II](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek02%5Dkernelization_part_II.pdf) Homework 1 out.
-- 14 March: Interative compression. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek03%5Diterative_compression.pdf), Chapter 4.1, 4.3 from Cygan et al. 
-- 19, 21 March: Guest lecture by [Sebastian Wiederrecht](https://www.wiederrecht.com/). On maximum matching.
-- 26 March: Randomized technique for FPT algorithm. Chapter 4.4, 5.1-5.3 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek05%5Drandomized.pdf).
-- 28 March: Tree-decomposition I. Chapter 7.1-7.2 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek05%5Dtree-decomposition-I.pdf).
-- 2 April: Tree-decomposition II. Chapter 7.3 from Cygan et al.
-- 4 April: Tree-decomposition III. Chapter 7.4, 7.6 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek06%5Dtree-decomposition-II.pdf). Homework 2 out. 
-- 9 April: Dynamic programming over subsets and IE-based algorithm. Chapter 10.1 from Cygan et al. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek07%5DDP%2BIE.pdf).
-- 11 April: More IE-based algorithms and Matrix Tree Theorem. Chapter 4.2 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7), [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek07%5Dalgebraic_approach.pdf).
-- 16 April: Mid-term exam.
-- 23 April: Mid-term exam revision. Topic Proposal for the project.
-- 25 April: Algorithms for CNF-SAT. Chapter 8.1 from [Fomin and Kratsch' textbook](https://link.springer.com/book/10.1007/978-3-642-16533-7)
-- 30 April: Hardness in parameterized complexity. Chapter 13 from Cygan et al. For details on the class NP and NP-completeness, check Chapter 2 of [Arora and Barak](https://theory.cs.princeton.edu/complexity/book.pdf). One can find a more comprehensive treatement on W-hierarchy in [Flum and Grohe](https://link.springer.com/book/10.1007/3-540-29953-X) and [Downey and Fellows](https://link.springer.com/book/10.1007/978-1-4612-0515-9).
-- 2 May: (S)ETH-based lower bound. Chapter 14 from Cygan et al. Homework 3 out.
-- 7 May: Introduction to approximation algorithms. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek11%5Dapprox_intro.pdf). Chapter 3 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7). Chapter 1 and 2.1 from [Chekuri's Lecture Note](https://courses.engr.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf).
-- 9 May: Layering technique. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek11%5Dapprox_layering.pdf). Chapter 2.2 and 6 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7). 
-- 14 May: Approximation for cut problems. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek12%5Dcut_flow_lp_I.pdf). Chapter 4 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7)
-- 16 May: Approximation for cut problems. LP-based rounding. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek12%5Dcut_flow_lp_II.pdf). Chapter 12 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7).
-- 21 May: More on cut problems. LP-based rounding. [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek13%5Dhalf-integrality_LP_rounding.pdf).
-- 23 May: LP-based rounding. Chapter 1.7 and 5.1-5.5 from [Williamson and Shmoys](https://www.designofapproxalgs.com/).
-- 28 May: No lecture.
-- 30 May: Primal-dual method. Homework 4 out. Chapter 7.3 from [Williamson and Shmoys](https://www.designofapproxalgs.com/) and chapter 13.1 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7). [Lecture Note](https://github.com/ssimplexity/CS492_spring2024/blob/main/%5BWeek14%5Dprimal_dual_I.pdf). 
-- 4 June: Primal-dual method. Chapter 7.4 from [Williamson and Shmoys](https://www.designofapproxalgs.com/), chapter 18 from [Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7).
-- 6 June: no lecture (public holiday).
-- 8 June: Final exam. 
-- 16 June: Submission of the video presentation.
+- Week 1 (2-6 Sep): Introduction. Finite Automata.
+- Week 2 (9-13 Sep): Nondeterministic Finite Automata. Regular operations. 
+  Online lectures on both days
+- Week 3 (16-20 Sep): No Lecture - “Chuseok”, Korean havest festival. 
+- Week 4 (23-27 Sep): Regular expressions. Regular grammars. 
+- Week 5 (30 Sep - 4 Oct): Properties of Regular languages. Context-free language.
+- Week 6 (7-11 Oct): Parsing. Online lecture on 7th Oct. No lecture on 9th Oct - “Hangul day”
+- Week 7 (14-18 Oct): Normal forms. Pushdown automata.
+- Week 8 (21-25 Oct): Equivalence of pushdown automata and context-free grammars . Properties of Context-free languages. Lecture on 23th (Wed), 9h-12h. No lecture on 21st (Mond).
+- Week 9 (28 Oct - 1 Nov): Mid-term exam. Exam schedule T.B.D.
+- Week 10 (4-8 Nov): Turing machines. Examples. Turing thesis. 
+- Week 11 (11-15 Nov): Turing machine variants. Universal Turing Machine. Decidability and recongnizability.
+- Week 12 (18-22 Nov): Hierarchy of formal languages. Undecidable problems. Reducibility.
+- Week 13 (25-29 Nov): Limit of efficient computations. Class P and NP. Polynomial-time reduction and NP-completeness. Cook-Levin Theorem.
+- Week 14 (2-6 Dec): Other NP-complete problems. Space complexity.
+- Week 15 (9-13 Dec): More on space complexity. Other models of computations.
+- Week 16 (16-20 Dec): Exam schedule T.B.D.
 
 
