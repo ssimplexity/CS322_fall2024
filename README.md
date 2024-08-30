@@ -28,7 +28,7 @@ LOGISTICS
   - Lecture Schedule. Monday and Wednesday, 10:30-11:45.
   - All lectures will take place on-site except for the week of 9-13 September and on 7th October.
   - The midterm exam will take place in the week of 28 Oct-1 November, one week after the offical midterm exam period.
-  - The final exam will take place in the usual final exam period. 
+  - The final exam will take place during the usual final exam period. 
      
 - Grading: Homeworks, Participation, Quiz 30%, Midterm exam 35%, Final exam 35%
   
