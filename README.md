@@ -45,7 +45,7 @@ We study ‘computer science’ and a computer is a computing machine. In this c
   - What do we mean by computing? 
   - What is the object that a computing machine computes? Why we call a programming language a ‘language’?
 - Both computer scientists and linguists talk about ‘languages’. Are there something in common? How to formalize the link between them.
-- Computers ranging from high-performance server, desktop, laptops to mobile phones, from a wide range of manufacturers are all ‘computers’. On which ground, do we treate them as if they are (essentially) equally powerful machines?
+- Computers ranging from high-performance server, desktop, laptops to mobile phones, from a wide range of manufacturers are all ‘computers’. On which ground, do we treate them as if they are (essentially) equally powerful machines which are all called computers?
 - Is there a problem which cannot be ‘computed’? How to tell if a problem is computable or not.
 - Is there a problem we’d better give up finding an ‘efficient’ algorithm? How to tell if a problem is efficiently computable or not.
   
