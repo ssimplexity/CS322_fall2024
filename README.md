@@ -59,11 +59,12 @@ We also assume that you have a moderate experience in programming, even though w
 
 Course Materials
 -------------------
-- Main Textbooks
+- Main Textbooks: any one of them will work! 
   - John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman, Introduction to Automata Theory, Languages and Computation, 3rd Edition, 2006, Pearson/Addision-Wesley. 
   - Michael Sipser, Introduction to the Theory of Computation, 2nd Edition (International Edition), 2006, Course Technology. 
-- Other useful materials
   - Peter Linz, An Introduction to Formal Languages and Automata, 6th Edition, 2017, Jones & Bartlett Learning.
+
+- Other useful materials
   - Scott Aaronson’s lecture notes on Automata, computability and complexity. [Link](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/pages/lecture-notes/).
 
  
