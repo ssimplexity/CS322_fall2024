@@ -70,12 +70,12 @@ Course Materials
 Course Plan (liable to be adjusted)
 ------------
 - Week 1 (2-6 Sep): Introduction. Finite Automata. Nondeterministic FA.
-- Week 2 (9-13 Sep): More on NFA. Equivalence of DFA and NFA. Closure under Regular operations. 
+- Week 2 (9-13 Sep): More on NFA. Equivalence of DFA and NFA. Closure under Regular operations. Regular expression.
   Online lectures on both days
 - Week 3 (16-20 Sep): No Lecture - “Chuseok”, Korean harvest festival. 
-- Week 4 (23-27 Sep): Regular expressions. Regular grammars. 
-- Week 5 (30 Sep - 4 Oct): Properties of Regular languages. Context-free language.
-- Week 6 (7-11 Oct): Parsing. Online lecture on 7th Oct. No lecture on 9th Oct - “Hangul day”
+- Week 4 (23-27 Sep): Conversions of between regular expressions and NFAs.  
+- Week 5 (30 Sep - 4 Oct): Algebra for Regular languages. Pumping lemma. 
+- Week 6 (7-11 Oct): Context-free language. Online lecture on 7th Oct. No lecture on 9th Oct - “Hangul day”
 - Week 7 (14-18 Oct): Normal forms. Pushdown automata.
 - Week 8 (21-25 Oct): Equivalence of pushdown automata and context-free grammars . Properties of Context-free languages. Lecture on 23th (Wed), 9h-12h. No lecture on 21st (Mond).
 - Week 9 (28 Oct - 1 Nov): Mid-term exam. Exam schedule T.B.D.
