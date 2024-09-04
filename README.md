@@ -69,8 +69,8 @@ Course Materials
  
 Course Plan (liable to be adjusted)
 ------------
-- Week 1 (2-6 Sep): Introduction. Finite Automata.
-- Week 2 (9-13 Sep): Nondeterministic Finite Automata. Regular operations. 
+- Week 1 (2-6 Sep): Introduction. Finite Automata. Nondeterministic FA.
+- Week 2 (9-13 Sep): More on NFA. Equivalence of DFA and NFA. Closure under Regular operations. 
   Online lectures on both days
 - Week 3 (16-20 Sep): No Lecture - “Chuseok”, Korean harvest festival. 
 - Week 4 (23-27 Sep): Regular expressions. Regular grammars. 
