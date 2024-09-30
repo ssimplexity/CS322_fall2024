@@ -74,8 +74,8 @@ Course Plan (liable to be adjusted)
 - Week 2 (9-13 Sep): Equivalence of DFA and NFA. Closure under Regular operations. Regular expression. Conversions of between regular expressions and NFAs, Part I. 
   Online lectures on both days
 - Week 3 (16-20 Sep): No Lecture - “Chuseok”, Korean harvest festival. 
-- Week 4 (23-27 Sep): Conversions of between regular expressions and NFAs, Part II. Algebra for Regular languages. Regular grammar.  
-- Week 5 (30 Sep - 4 Oct): Pumping lemma for DFA. Context-free Grammar. Derivation.
+- Week 4 (23-27 Sep): Conversions of between regular expressions and NFAs, Part II. Pumping lemma for DFA.  
+- Week 5 (30 Sep - 4 Oct): Properties of Regular languages and how to prove. Context-free Grammar and Context-free language.
 - Week 6 (7-11 Oct): Parse Trees. Applications of CFG. Online lecture on 7th Oct. No lecture on 9th Oct - “Hangul day”
 - Week 7 (14-18 Oct): Ambiguity. Normal form. Pushdown automata.
 - Week 8 (21-25 Oct): Equivalence of pushdown automata and context-free grammars . Properties of Context-free languages. Lecture on 23th (Wed), 9h-12h. No lecture on 21st (Mond).
