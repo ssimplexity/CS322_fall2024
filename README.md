@@ -77,7 +77,7 @@ Course Plan (liable to be adjusted)
 - Week 4 (23-27 Sep): Conversions of between regular expressions and NFAs, Part II. Pumping lemma for DFA.  
 - Week 5 (30 Sep - 4 Oct): Properties of Regular languages and how to prove. Context-free Grammar and Context-free language.
 - Week 6 (7-11 Oct): Parse Trees. Applications of CFG. Online lecture on 7th Oct. No lecture on 9th Oct - “Hangul day”
-- Week 7 (14-18 Oct): Ambiguity. Normal form. Pushdown automata.
+- Week 7 (14-18 Oct): Normal form. Pushdown automata.
 - Week 8 (21-25 Oct): Equivalence of pushdown automata and context-free grammars . Properties of Context-free languages. Lecture on 23th (Wed), 9h-12h. No lecture on 21st (Mond).
 - Week 9 (28 Oct - 1 Nov): Mid-term exam. Exam schedule T.B.D.
 - Week 10 (4-8 Nov): Turing machines. Examples. Turing thesis. 
