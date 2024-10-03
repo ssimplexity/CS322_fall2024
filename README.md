@@ -4,8 +4,8 @@ Formal Languages and Automata (KAIST CS322), Fall 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
-19 Sep: Lecture videos are on KLMS. Subjects: Equivalence of NFA and DFA. Closure under regular operations.
-8 Sep: The first recorded lecture will be available on KLMS on Wednesday (11 Sep).
+- 19 Sep: Lecture videos are on KLMS. Subjects: Equivalence of NFA and DFA. Closure under regular operations.
+- 8 Sep: The first recorded lecture will be available on KLMS on Wednesday (11 Sep).
 
 
 LOGISTICS
