@@ -75,7 +75,7 @@ Course Plan (liable to be adjusted)
   Online lectures on both days
 - Week 3 (16-20 Sep): No Lecture - “Chuseok”, Korean harvest festival. 
 - Week 4 (23-27 Sep): Conversions of between regular expressions and NFAs, Part II. Pumping lemma for DFA.
-    A lecture note on Myhill-Nerode Theorem with an application on proving regularity/nonregularity of a language can be found [here](https://santoshv.github.io/2019CS4510/L911_scribed.pdf).
+    A lecture note on Myhill-Nerode Theorem with an application to proving regularity/nonregularity of a language can be found [here](https://santoshv.github.io/2019CS4510/L911_scribed.pdf).
 - Week 5 (30 Sep - 4 Oct): Properties of Regular languages and how to prove. Context-free Grammar and Context-free language.
 - Week 6 (7-11 Oct): Parse Trees. Applications of CFG. Online lecture on 7th Oct. No lecture on 9th Oct - “Hangul day”
 - Week 7 (14-18 Oct): Normal form. Pushdown automata.
