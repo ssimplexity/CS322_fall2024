@@ -4,6 +4,7 @@ Formal Languages and Automata (KAIST CS322), Fall 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
+- 4 Oct: The second homework will be out today.
 - 19 Sep: Lecture videos are on KLMS. Subjects: Equivalence of NFA and DFA. Closure under regular operations.
 - 8 Sep: The first recorded lecture will be available on KLMS on Wednesday (11 Sep).
 
@@ -74,12 +75,12 @@ Course Plan (liable to be adjusted)
 - Week 2 (9-13 Sep): Equivalence of DFA and NFA. Closure under Regular operations. Regular expression. Conversions of between regular expressions and NFAs, Part I. 
   Online lectures on both days
 - Week 3 (16-20 Sep): No Lecture - “Chuseok”, Korean harvest festival. 
-- Week 4 (23-27 Sep): Conversions of between regular expressions and NFAs, Part II. Pumping lemma for DFA.
+- Week 4 (23-27 Sep): Conversions of between regular expressions and NFAs, Part II. Pumping lemma for DFA. 
     A lecture note on Myhill-Nerode Theorem with an application to proving regularity/nonregularity of a language can be found [here](https://santoshv.github.io/2019CS4510/L911_scribed.pdf).
 - Week 5 (30 Sep - 4 Oct): Properties of Regular languages and how to prove. Context-free Grammar and Context-free language.
-- Week 6 (7-11 Oct): Parse Trees. Applications of CFG. Online lecture on 7th Oct. No lecture on 9th Oct - “Hangul day”
-- Week 7 (14-18 Oct): Normal form. Pushdown automata.
-- Week 8 (21-25 Oct): Equivalence of pushdown automata and context-free grammars . Properties of Context-free languages. Lecture on 23th (Wed), 9h-12h. No lecture on 21st (Mond).
+- Week 6 (7-11 Oct): Parse Trees. Applications of CFG. Ambiguity. Online lecture on 7th Oct. No lecture on 9th Oct - “Hangul day”
+- Week 7 (14-18 Oct): Pushdown automata. Equivalence of pushdown automata and context-free grammars.
+- Week 8 (21-25 Oct): Pumping lemma for CFL. Properties of Context-free languages. Lecture on 23th (Wed), 9h-12h. No lecture on 21st (Monday).
 - Week 9 (28 Oct - 1 Nov): Mid-term exam. Exam schedule T.B.D.
 - Week 10 (4-8 Nov): Turing machines. Examples. Turing thesis. 
 - Week 11 (11-15 Nov): Turing machine variants. Universal Turing Machine. Decidability and recongnizability.
