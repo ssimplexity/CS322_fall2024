@@ -78,7 +78,7 @@ Course Plan (liable to be adjusted)
 - Week 4 (23-27 Sep): Conversions of between regular expressions and NFAs, Part II. Pumping lemma for DFA. 
     A lecture note on Myhill-Nerode Theorem with an application to proving regularity/nonregularity of a language can be found [here](https://santoshv.github.io/2019CS4510/L911_scribed.pdf).
 - Week 5 (30 Sep - 4 Oct): Properties of Regular languages and how to prove. Context-free Grammar and Context-free language.
-- Week 6 (7-11 Oct): Parse Trees. Applications of CFG. Ambiguity. Online lecture on 7th Oct. No lecture on 9th Oct - “Hangul day”
+- Week 6 (7-11 Oct): Parse Trees. Applications of CFG. Ambiguity. The lecture on 7th Oct is replaced by a recorded lecture (to be uploaded on KLMS). No lecture on 9th Oct - “Hangul day”
 - Week 7 (14-18 Oct): Pushdown automata. Equivalence of pushdown automata and context-free grammars.
 - Week 8 (21-25 Oct): Pumping lemma for CFL. Properties of Context-free languages. Lecture on 23th (Wed), 9h-12h. No lecture on 21st (Monday).
 - Week 9 (28 Oct - 1 Nov): Mid-term exam. Exam schedule T.B.D.
