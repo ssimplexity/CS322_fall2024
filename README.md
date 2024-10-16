@@ -4,9 +4,9 @@ Formal Languages and Automata (KAIST CS322), Fall 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
-- 4 Oct: The second homework will be out today.
-- 19 Sep: Lecture videos are on KLMS. Subjects: Equivalence of NFA and DFA. Closure under regular operations.
-- 8 Sep: The first recorded lecture will be available on KLMS on Wednesday (11 Sep).
+- 16 Oct: The mid-term exam will take place on 2nd November, Saturday, from 2pm till 6pm. You can bring something to drink and simple snack that you can consume without crunchy sound. The exam is closed-book and of course no internet is allowed. You can bring your personal notes on course material up to 3 pieces of A4-size paper.
+
+
 
 
 LOGISTICS
