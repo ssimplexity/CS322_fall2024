@@ -81,7 +81,7 @@ Course Plan (liable to be adjusted)
 - Week 6 (7-11 Oct): No lecture - “Hangul day” and the lecturer away for workshop.
 - Week 7 (14-18 Oct): Parse Trees. Ambiguity. Pushdown automata. 
 - Week 8 (21-25 Oct): Equivalence of pushdown automata and context-free grammars. Deterministic PDA. Lecture on 23th (Wed), 9h-12h. No lecture on 21st (Monday).
-- Week 9 (28 Oct - 1 Nov): Mid-term exam. Exam schedule T.B.D.
+- Week 9 (28 Oct - 1 Nov): Mid-term exam on 2nd November, Saturday, from 2pm till 6pm.
 - Week 10 (4-8 Nov): Pumping lemma for CFL. Properties of Context-free languages. 
 - Week 11 (11-15 Nov): Turing machines. Examples. Turing thesis. 
 - Week 12 (18-22 Nov): Turing machine variants. Universal Turing Machine. Decidability and recongnizability. 
