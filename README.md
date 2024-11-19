@@ -83,9 +83,9 @@ Course Plan (liable to be adjusted)
 - Week 8 (21-25 Oct): Equivalence of pushdown automata and context-free grammars. Deterministic PDA. Properties of Context-free languages. Lecture on 23th (Wed), 9h-12h. No lecture on 21st (Monday).
 - Week 9 (28 Oct - 1 Nov): Mid-term exam on 2nd November, Saturday, from 2pm till 6pm.
 - Week 10 (4-8 Nov): Pumping lemma for CFL. CYK algorithm. Turing machines. Examples. 
-- Week 11 (11-15 Nov): Turing thesis. Turing machine variants. Universal Turing Machine.  
-- Week 12 (18-22 Nov): Decidability and recongnizability. 
-- Week 13 (25-29 Nov): Undecidable problems. Reducibility. 
+- Week 11 (11-15 Nov): Turing thesis. Turing machine variants. Universal Turing Machine. Diagonal argument and the existence of unrecognizable languages. 
+- Week 12 (18-22 Nov): Decidable and undecidable languages. 
+- Week 13 (25-29 Nov): Undecidable problem. Reducibility. 
 - Week 14 (2-6 Dec): Limit of efficient computations. Class P and NP. Polynomial-time reduction and NP-completeness. Cook-Levin Theorem. 
 - Week 15 (9-13 Dec): Other NP-complete problems. Space complexity. Other models of computations.
 - Week 16 (16-20 Dec): Exam schedule T.B.D.
