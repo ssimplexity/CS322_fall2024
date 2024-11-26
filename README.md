@@ -4,7 +4,7 @@ Formal Languages and Automata (KAIST CS322), Fall 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
-- 27 Nov: The final exam takes place on 18th Dec (Wednesday) in E11 room 412 from 8h till 12h. 
+- 27 Nov: The final exam takes place on 18th Dec (Wednesday) in E11 room 412 from 8h till 12h. The exam is closed-book and no electronic devices are allowed. You can bring your personal notes on course material up to 3 pieces of A4-size paper, which may be two-sided.
 - 16 Oct: The mid-term exam will take place on 2nd November, Saturday, from 2pm till 6pm. You can bring something to drink and simple snack that you can consume without crunchy sound. The exam is closed-book and of course no internet is allowed. You can bring your personal notes on course material up to 3 pieces of A4-size paper.
 
 
