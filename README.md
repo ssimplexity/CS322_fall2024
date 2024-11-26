@@ -4,6 +4,7 @@ Formal Languages and Automata (KAIST CS322), Fall 2024
 
 <span style="color:red">NEWS</span>
 ---------------------
+- 27 Nov: The final exam takes place on 18th Dec (Wednesday) in E11 room 412 from 8h till 12h. 
 - 16 Oct: The mid-term exam will take place on 2nd November, Saturday, from 2pm till 6pm. You can bring something to drink and simple snack that you can consume without crunchy sound. The exam is closed-book and of course no internet is allowed. You can bring your personal notes on course material up to 3 pieces of A4-size paper.
 
 
@@ -88,6 +89,6 @@ Course Plan (liable to be adjusted)
 - Week 13 (25-29 Nov): Undecidable problem. Mapping/many-one reduction.  
 - Week 14 (2-6 Dec): Limit of efficient computations. Class P and NP. Polynomial-time reduction and NP-completeness. Cook-Levin Theorem. 
 - Week 15 (9-13 Dec): Other NP-complete problems. Space complexity. Other models of computations.
-- Week 16 (16-20 Dec): Exam schedule T.B.D.
+- Week 16 (16-20 Dec): Exam schedule 18th Dec (Wednesday), 8h-12h.
 
 
