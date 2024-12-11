@@ -88,7 +88,7 @@ Course Plan (liable to be adjusted)
 - Week 12 (18-22 Nov): Decidable and undecidable languages. (Turing-)reducibility.
 - Week 13 (25-29 Nov): Undecidable problem. Mapping/many-one reduction.  
 - Week 14 (2-6 Dec): Limit of efficient computations. Class P and NP. Polynomial-time reduction and NP-completeness. Cook-Levin Theorem. 
-- Week 15 (9-13 Dec): Other NP-complete problems. Space complexity. Other models of computations.
+- Week 15 (9-13 Dec): Other NP-complete problems. Other models of computations.
 - Week 16 (16-20 Dec): Exam schedule 18th Dec (Wednesday), 8h-12h.
 
 
